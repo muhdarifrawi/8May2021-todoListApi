@@ -73,3 +73,7 @@ Run server:
 npm run start
 ```
 To stop server, just press `ctrl + c` into the Terminal. 
+
+## Troubleshooting
+When running `mongod`, returns error "/data/db" not found.
+[/data/db not found error](https://askubuntu.com/questions/1264528/nonexistentpath-data-directory-data-db-not-found-terminating-error-occurs)
