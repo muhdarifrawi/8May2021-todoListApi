@@ -1,4 +1,4 @@
-# To-do List REST APUI
+# To-do List REST API
 ###### Start Date: 8 May 2021
 
 ## Introduction
